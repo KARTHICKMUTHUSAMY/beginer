@@ -1,5 +1,8 @@
 a=int(input())
-if (a % 2) == 0:
-print("{0} is Even".format(a))
-else
-print("{0} is Odd".format(a))
+if(a>0):
+	if(a%2==0):
+		print("Even")
+	elif(a%2!=0):
+		print("Odd")
+else:
+	print("invalid")
