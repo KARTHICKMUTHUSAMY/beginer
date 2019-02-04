@@ -1,7 +1,7 @@
-a,b,c=input('\n').split(' ')
-if((a>b)and(a>c)):
-	print(a)
-elif((b>a)and(b>c)):
-	print(b)
+x,y,z=input('\n').split(' ')
+if((x>y)and(x>z)):
+	print(x)
+elif((b>x)and(y>z)):
+	print(y)
 else:
-	print(c)
+	print(z)
