@@ -2,10 +2,10 @@ a=int(input())
 b=a
 c=0
 while(a>0):
-n=a%10
-c=c*10+n
-a=a//10
+  n=a%10
+  c=c*10+n
+  a=a//10
 if(b==c):
-print("yes")
+  print("yes")
 else:
-print("no")
+  print("no")
