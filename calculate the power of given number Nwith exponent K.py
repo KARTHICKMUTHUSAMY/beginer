@@ -1,5 +1,5 @@
-a=input().split()
-b=int(a[0])
-c=int(a[1])
-d=b**c
-print(d)
+l=input().split()
+m=int(l[0])
+n=int(l[1])
+p=m**n
+print(p)
