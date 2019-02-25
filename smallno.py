@@ -1,8 +1,8 @@
-k=input()
-v=input()
-m=list(str(k))
-s=v
-while s>0:
-    s=s-1
-    del(m[s])
-print(''.join(m))
+x=input()
+y=input()
+z=list(str(x))
+r=y
+while r>0:
+    r=r-1
+    del(z[r])
+print(''.join(z))
