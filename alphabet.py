@@ -1,10 +1,10 @@
-x=list(input())
-y=list(input())
-z=len(x)
+k=list(input())
+v=list(input())
+m=len(x)
 d=0
 i=0
-while z>0:
-    d=d+(ord(y[i])-ord(x[i]))
+while m>0:
+    d=d+(ord(v[i])-ord(k[i]))
     i=i+1
-    z=z-1
+    m=m-1
 print(d)
