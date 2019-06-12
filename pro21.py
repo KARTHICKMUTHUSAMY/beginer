@@ -4,7 +4,7 @@ l=[int(x) for x in input().split()]
 
 ak=int(k/2)
 
-l1=l[:av]
+l1=l[:ak]
 
 l2=l[ak::]
 
