@@ -1,7 +1,7 @@
-a=input().split()
-k=int(a[1])
-n=int(a[0])
-a=[int(d) for d in a[0]]
+x=input().split()
+k=int(x[1])
+n=int(x[0])
+x=[int(d) for d in x[0]]
 f=0
 p=1;
 while(f==0):
