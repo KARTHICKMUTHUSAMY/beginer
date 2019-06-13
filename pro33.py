@@ -1,4 +1,4 @@
-str=input()
+stri=input()
 
 flag3=0
 
