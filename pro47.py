@@ -1,7 +1,7 @@
 a=input().split()
 k=int(a[1])
 n=int(a[0])
-v=[int(d) for d in v[0]]
+a=[int(d) for d in a[0]]
 f=0
 p=1;
 while(f==0):
